@@ -2,7 +2,13 @@
 
 <img src="mirit_logo.png?raw=true" alt="MIRit_logo" width="330" align="right"/>
 
-This repository contains the analysis files that were used in the paper to showcase the performance of MIRit for integrative miRNA-mRNA analyses. For details regarding the functioning of MIRit, please refer to the original publication. The source code of the R package is available on GitHub in the main repository of [MIRit](https://github.com/jacopo-ronchi/MIRit). 
+This repository contains the analysis files that were used in the paper to showcase the performance of MIRit for integrative miRNA-mRNA analyses. For details regarding the functioning of MIRit, please refer to the original publication. The source code of the R package is available on GitHub in the main repository of [MIRit](https://github.com/jacopo-ronchi/MIRit).
+
+## Author
+
+__Dr. Jacopo Ronchi__ <a itemprop="sameAs" content="https://orcid.org/0000-0001-5520-4631" href="https://orcid.org/0000-0001-5520-4631" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
+
+School of Medicine and Surgery, University of Milano-Bicocca, Italy
 
 ## Reference
 
