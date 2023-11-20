@@ -31,4 +31,5 @@ The analysis files for each example are stored in the relative folders: "Thyroid
 
 - The R script that was used to generate the results, `thyroid_cancer_analysis.R` for the first example and `alzheimer_analysis.R` for the second one,
 - A `data` folder with processed expression matrices and sample metadata,
-- A `results` folder containing the raw results of the analysis and the corresponding figures.
+- A `results` folder containing the raw results of the analysis;
+- A `plots` folder that stores the generated figures used in the manuscript.
