@@ -1,6 +1,4 @@
-# MIRit Supporting Files
-
-<img src="mirit_logo.png?raw=true" alt="MIRit_logo" width="330" align="right"/>
+# MIRit Supporting Files <img src="logo.png?raw=true" alt="MIRit_logo" height="192" align="right"/>
 
 This repository contains the analysis files that were used in the paper to showcase the performance of MIRit for integrative miRNA-mRNA analyses. For details regarding the functioning of MIRit, please refer to the original publication. The source code of the R package is available on GitHub in the main repository of [MIRit](https://github.com/jacopo-ronchi/MIRit).
 
