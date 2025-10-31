@@ -2,7 +2,7 @@
 
 This repository contains the analysis files used in the manuscript to demonstrate the effectiveness of MIRit in integrative miRNA-mRNA analyses. For more information on how MIRit works, please refer to the original paper. The source code of MIRit is accessible on [GitHub](https://github.com/jacopo-ronchi/MIRit).
 
-## Authors
+## :scientist: Authors
 
 __Dr. Jacopo Ronchi__ <a itemprop="sameAs" content="https://orcid.org/0000-0001-5520-4631" href="https://orcid.org/0000-0001-5520-4631" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a><sup>1</sup> (author and maintainer)
 
@@ -10,7 +10,7 @@ __Dr. Maria Foti__ <a itemprop="sameAs" content="https://orcid.org/0000-0002-448
 
 <sup>1</sup>School of Medicine and Surgery, University of Milano-Bicocca, Italy
 
-## Reference
+## 📄 Citation
 
 The publication that details the implementation of MIRit and its usage is currently available on [bioRxiv](doi:10.1101/2023.11.24.568528):
 
@@ -18,7 +18,19 @@ The publication that details the implementation of MIRit and its usage is curren
 > identification of impaired miRNA-mRNA regulatory networks in complex
 > diseases’. bioRxiv (2023). <doi:10.1101/2023.11.24.568528>
 
-## Datasets description
+## 📂 Repository Structure
+
+| Path                                 | Description                                                                                                                                                                |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `'Alzheimer's disease'/`             | The R scripts used for pre-processing and analysis of the AD case study.                                                                                                   |
+| `'Benchmark on simulated data'/`     | The R scripts and helper functions used to to generate synthetic miRNA–mRNA datasets and to evaluate the performance of various correlation-based and categorical methods. |
+| `'Clear cell renal cell carcinoma'/` | The R scripts used for pre-processing and analysis of the ccRCC dataset.                                                                                                   |
+| `'Dilated cardiomyopathy'/`          | The R scripts used for the analysis of the DCM dataset.                                                                                                                    |
+| `logo.png`                           | The MIRit logo.                                                                                                                                                            |
+| `README.md`                          | This file.                                                                                                                                                                 |
+| `LICENSE`                            | License terms for the code.                                                                                                                                                |
+
+## 📊 Data Availability
 
 The performance of MIRit has been tested with three different datasets:
 
@@ -28,6 +40,6 @@ The performance of MIRit has been tested with three different datasets:
 
 The datasets used in this study are publicly available on GEO under the accession numbers [GSE243406](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE243406), [GSE16441](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi), [GSE63501](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi), and [GSE150696](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi).
 
-## File organization
+## ⚖️ License
 
-The R scripts used to generate the results presented in the manuscript can be found in the "Dilated Cardiomyopathy," "Clear Cell Renal Cell Carcinoma," and "Alzheimer's Disease" folders. R scripts used for data preprocessing are also included when necessary.
+This code is distributed under the GNU General Public License v3.0 (GPLv3).
