@@ -12,11 +12,12 @@ __Dr. Maria Foti__ <a itemprop="sameAs" content="https://orcid.org/0000-0002-448
 
 ## 📄 Citation
 
-The publication that details the implementation of MIRit and its usage is currently available on [bioRxiv](doi:10.1101/2023.11.24.568528):
+The publication that details the implementation of MIRit and its usage is currently available [here](https://doi.org/10.1093/bioadv/vbag042):
 
-> Ronchi J and Foti M. ‘MIRit: an integrative R framework for the
-> identification of impaired miRNA-mRNA regulatory networks in complex
-> diseases’. bioRxiv (2023). <doi:10.1101/2023.11.24.568528>
+> Ronchi, J., & Foti, M. (2026). MIRit: An integrative R framework for the
+> identification of impaired miRNA–mRNA regulatory networks in complex
+> diseases. Bioinformatics Advances, vbag042.
+> https://doi.org/10.1093/bioadv/vbag042
 
 ## 📂 Repository Structure
 
